@@ -1,7 +1,4 @@
-Class A1
-{
-public static void main(String[] arg)
+Class B
 {
 system.out.println("Hello");
-}
 }
